@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['login'])) {
     $username = $_POST['username'] ?? '';
     $password = $_POST['password'] ?? '';
     
-    if ($username === 'admin' && $password === 'admin123') {
+    if ($username === 'admin' && $password === 'Your_pwd') {
         $_SESSION['admin_logged_in'] = true;
         $_SESSION['admin_username'] = $username;
         header('Location: ' . $_SERVER['PHP_SELF']);
