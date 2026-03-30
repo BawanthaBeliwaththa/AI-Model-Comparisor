@@ -1,0 +1,39 @@
+[27-Mar-2026 15:37:13 UTC] === sim.php called ===
+[27-Mar-2026 15:37:13 UTC] Action: debug
+[27-Mar-2026 15:37:13 UTC] Kaggle URL from config: https://b31c-34-141-246-171.ngrok-free.app
+[27-Mar-2026 15:37:37 UTC] === sim.php called ===
+[27-Mar-2026 15:37:37 UTC] Action: test
+[27-Mar-2026 15:37:41 UTC] === sim.php called ===
+[27-Mar-2026 15:37:41 UTC] Action: test_kaggle
+[27-Mar-2026 15:37:41 UTC] Testing Kaggle connection to: https://b31c-34-141-246-171.ngrok-free.app
+[27-Mar-2026 15:37:41 UTC] Kaggle health response code: 200
+[27-Mar-2026 15:37:44 UTC] === sim.php called ===
+[27-Mar-2026 15:37:44 UTC] Action: test_kaggle
+[27-Mar-2026 15:37:44 UTC] Testing Kaggle connection to: https://b31c-34-141-246-171.ngrok-free.app
+[27-Mar-2026 15:37:44 UTC] Kaggle health response code: 200
+[27-Mar-2026 15:37:54 UTC] === sim.php called ===
+[27-Mar-2026 15:37:54 UTC] Action: ask_question
+[27-Mar-2026 15:37:55 UTC] === sim.php called ===
+[27-Mar-2026 15:37:55 UTC] Action: get_answer
+[27-Mar-2026 15:37:55 UTC] Getting answer for: 4*4
+[27-Mar-2026 15:37:55 UTC] Kaggle URL from config: https://b31c-34-141-246-171.ngrok-free.app
+[27-Mar-2026 15:37:55 UTC] === CALLING KAGGLE ===
+[27-Mar-2026 15:37:55 UTC] URL: https://b31c-34-141-246-171.ngrok-free.app
+[27-Mar-2026 15:37:55 UTC] Question: 4*4
+[27-Mar-2026 15:37:55 UTC] HTTP Code: 200
+[27-Mar-2026 15:37:55 UTC] Response received: {"answer":"I'm a cognitive learning AI trained on 25 learning dimensions including pattern extraction, relational reasoning, mathematical patterns, and compositional learning. I can help analyze quest
+[27-Mar-2026 15:37:55 UTC] ✅ KAGGLE SUCCESS: I'm a cognitive learning AI trained on 25 learning dimensions including pattern extraction, relation
+[27-Mar-2026 15:37:55 UTC] Using Kaggle answer
+[27-Mar-2026 15:38:09 UTC] === sim.php called ===
+[27-Mar-2026 15:38:09 UTC] Action: ask_question
+[27-Mar-2026 15:38:09 UTC] === sim.php called ===
+[27-Mar-2026 15:38:09 UTC] Action: get_answer
+[27-Mar-2026 15:38:09 UTC] Getting answer for: what is 484 + 765
+[27-Mar-2026 15:38:09 UTC] Kaggle URL from config: https://b31c-34-141-246-171.ngrok-free.app
+[27-Mar-2026 15:38:09 UTC] === CALLING KAGGLE ===
+[27-Mar-2026 15:38:09 UTC] URL: https://b31c-34-141-246-171.ngrok-free.app
+[27-Mar-2026 15:38:09 UTC] Question: what is 484 + 765
+[27-Mar-2026 15:38:09 UTC] HTTP Code: 200
+[27-Mar-2026 15:38:09 UTC] Response received: {"answer":"I'm a cognitive learning AI trained on 25 learning dimensions including pattern extraction, relational reasoning, mathematical patterns, and compositional learning. I can help analyze quest
+[27-Mar-2026 15:38:09 UTC] ✅ KAGGLE SUCCESS: I'm a cognitive learning AI trained on 25 learning dimensions including pattern extraction, relation
+[27-Mar-2026 15:38:09 UTC] Using Kaggle answer
